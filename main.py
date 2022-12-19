@@ -41,8 +41,8 @@ def main():
         upload_labelled_data_to_sheet()
         totalData = len(data)
         update_values('Label_status','B2', 'USER_ENTERED', str(totalData))
+        time.sleep(30)
         update_values('Label_status','A2', 'USER_ENTERED', 'False')
-        time.sleep(5)
         if check_laballed_status()== False: 
             print('Upload successfully!')
     except:
