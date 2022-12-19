@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-flames-372007",
+  "private_key_id": "a94caf7246871ab5782df02d3833ba2f43b589a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCza/FoTn2YStvT\nZtoD3t3WinoLR8tqoUAp1yE9wh+xCFCzdUxQ8+X0H3oHm7XRK3Y+FEFQ0RG/hzWs\niUNbqye744CMCi2aXJRpa+5bsi2z/ECE1J17jQzdM7e/Uf9Pbj/21FB+RH+rK3O7\nhFmSFh390mPIRdgwZFQ5xiVDnx33ygebsjwTFuztmLvleT8AXl57PEClnbf+/XDY\n7IcotGL/s8mmDf3HuVMZaMQGFgcbaD0haxJEsu1L9rkA0AX0B2noxeTIXONAo/kD\nrVUxGZtjdX5ID2CQlRr9TezsJHyn7oYEJxym5IEzfScYFeJAdm1Vtd0tXjgt8uB/\nmAdiL3JJAgMBAAECggEACy3xI0osujYD33a7o90ZnnoPY6+MBa9Zc6HzcMktN1co\nzB3FbQ/dZqolbN7vY8KdAf46GaKFRBVVK1R8LXSLK8JfqpohwEn/d1ghyHXgMiRI\nEt66l02xHQFRdCrUSSs58hPFljCHce9prSfwetFE+iFHVV3AvDcsJlNp0/5QnDVQ\nKs3s4Bg/Kotn6iJx32S6DB/hOBK8oDq3YfehI0VNrqtFwjaCopEwLy5CyH45qYBG\nigVFo5QiBfMGiOOY1lqNygA/FJNa1Jonaz+eSQD1DUqtyn7vyiifSKH5g3InEAXy\nw/vAMbj4gCEz2ooCRDQT2Z7RRZmJFCzs6Ev7zqRnDwKBgQDgP4SeApWcyFozGVlr\nR+hFuhSXurZCNqSytxoDVgEdynz41qbuU5OBr9dYsX5PxqTy2BNAUykN/YJEwzwL\ngKDnmod7+pLQbgTiRAwefrqm5cDZoYFKVgb8krJleibxcH8Ue6YxxjSPORMS4aCP\ni5mw+WwCk9zsCXup10FOMjT84wKBgQDM05FpJtjQVLp6SCL2Dd871vHZYYTVi7Pj\njB1cnarHU08M5pTdrARLMs+EbCH43FY0a4WLHJcoDflMR7nMYDE+aFI2+bVsMSEs\nCdKUueDxJx1NF1qRaUQFcwX4Q2Z9EZGvqiLunAeq8U+34nXmRL+kxrJN7O2N3G7e\n0CeSr+MH4wKBgQCiWlpRa92V3Rgw1rF+klj/4nD2SR+bYKRtH1OeBq5YOzmvjvjc\no3Wv9vcaJ6cjatYRW47Ui2C12ExwLElUqpPUGnTstcWFUaIHjuyXR3krTDwLVHqe\nrxnv0uWFwqJfOutGkR8J+k4jQ1cj3Ga6hn+HOY2RcCwKV/NIS6fkTUU/sQKBgQCm\n9N1WRN/+ENJf0mUNA4mvESnZ829/UXy0QgW89Je8GeAZt+ooNorZcPVOD4YxgAiU\negBEwG1FrP5Ee0KroM0C/a3mOezz36gWaXtI16rPZv6vVBXy6UcU2glHsEjeMW/7\nLEeFD5IAeOpuDR3lMKy193BnrHSGaePFow5etxfr2QKBgDsWI2oUY7KS9IdZB/xB\nptrTw9GbhJ4whmVLdbD8kYR308NVqR5E4fVrJwLz9JJ2kWz+xCQ61V2Br1C2PdH2\nbhvnjxLesaHlf7KeAlzcGK1RXop+7t7HDf2+sXZVG60NrBkFVEXPb9MwnIah+Nix\n33SnL8J/kPuUCqzNXs1HfFIL\n-----END PRIVATE KEY-----\n",
+  "client_email": "via-infant-data@rosy-flames-372007.iam.gserviceaccount.com",
+  "client_id": "113369595310691300151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/via-infant-data%40rosy-flames-372007.iam.gserviceaccount.com"
+}
