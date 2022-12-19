@@ -5,6 +5,8 @@ Using Google Sheet API to download and upload data to Sheet
 
 
 ## Quick start
+- [DATA](https://drive.google.com/drive/folders/1Wf0WYIKLlyrA6K-ViZksxvhJDNxvO4m_?usp=share_link)
+- [LABEL TOOL](https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
 ### Installation
 ##### 1. Clone repo
 ```bash
@@ -23,7 +25,7 @@ Using Google Sheet API to download and upload data to Sheet
 ```
 
 ### Label data
-##### 1. Label mask for data by [Via](https://www.robots.ox.ac.uk/~vgg/software/via/via.html) of VGG tools, choose "Add files" to add necessary labelled-files 
+##### 1. Label mask for data by [Via](https://www.robots.ox.ac.uk/~vgg/software/via/via.html) of VGG tools, choose "Add files" to add necessary labelled-files
 ##### 2. Save Annotation file choose Annotation/Export Annotation (as CSV) on header-bar of Via tools
 ##### 3. Change current path of CSV Annotation files in ```main.py```
 ```bash
